@@ -1,0 +1,48 @@
+
+p {
+    font-family:"BIZ UDP明朝","BIZ UD明朝",'メイリオ', 'Meiryo', sans-serif;
+}
+
+a {
+    color: black;
+}
+
+.card-title {
+    font-weight: bolder;
+}
+
+.title  {    
+    font-family: "Corbel",'Anton', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.big_title {
+    font-family: "Corbel",'Anton', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.name {
+    font-family: "Corbel",'Anton', sans-serif;
+    font-size: 30px;
+}
+
+.text_center {
+    font-family: "Corbel",'Anton', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+hr {
+    border-color: rgb(43, 96, 255);
+    
+}
+
+.mark {
+    background-color:rgba(140, 194, 255, 0.931);
+}
